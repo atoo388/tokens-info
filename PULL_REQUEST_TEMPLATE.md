@@ -38,19 +38,21 @@ Example:
 
 ```json
 {
-    "asset":"NOW-E68",
-    "assetMap":"NOW",
-    "market": "ALTS",
-    "officialSiteUrl":"https://changenow.io/",
-    "contactEmail":"email@now.com",
-    "display":true,
-    "contact":{
-        "Telegram":"https://t.me/NOWtoken_Bounty",
-        "Reddit":"https://www.reddit.com/user/ChangeNow_io",
-        "Medium":"https://medium.com/",
-        "Youtube":"https://www.youtube.com/channel/UCpnkFY4kom0q3RJnhHiuMnw",
-        "Twitter":"https://twitter.com/ChangeNOW_io",
-        "Facebook":"https://www.facebook.com/ChangeNOW.io/"
+  
+  "asset":"ANK-5D8M",
+"assetMap":"ANK",
+"market": "ALTS",
+"officialSiteUrl":"https://5dd9b81c0890c.site123.me/",
+"contactEmail":"applenetwork@mail.com",
+"display":true,
+"contact":{
+"Twitter":"https://twitter.com/Applenetwork4",
+"Facebook":"https://www.facebook.com/apple.ank.315",
+"Coinmarketcap":"https://coinmarketcap.com/currencies/apple-network/",
+"Telegram":"https://t.me/AppleNetwork4/",
+"LinkedIn":"https://www.linkedin.com/in/ank-apple-547773199/",
+
+
     }
 }
 
